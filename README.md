@@ -78,10 +78,9 @@ DB_PORT=5432
 ### Start the servers
 ```bash
 node main.js
-
 npm run dev
 ```
-## ** 🎨 Preview **
+##  🎨 Preview 
 
 ### Homepage
 ![Screenshot 2025-01-06 230542](https://github.com/user-attachments/assets/d537ff5e-a017-4c44-9503-95f51db22848)
